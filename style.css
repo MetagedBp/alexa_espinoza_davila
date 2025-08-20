@@ -8,15 +8,15 @@ body {
 }
 
 header {
-  background: linear-gradient(90deg, #4b6cb7, #3362c0);
+  background: linear-gradient(90deg, #162b4e, #162b4e);
   color: white;
   padding: 50px 20px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.3);
 }
 
 .profile-pic {
-  width: 150px;           
-  height: 150px;          
+  width: 200px;           
+  height: 200px;          
   object-fit: cover;      
   object-position: top;   
   border: 4px solid #000;  
